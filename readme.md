@@ -9,7 +9,7 @@
 - Para ficar mais rápido e pelo cache eu usei o cloudfront
 
 <p text-align="justify">
-O objetivo é que o usuário iria acessar esta aplicação e o cloudfront iria verificar se o que o usuário deseja encontrar está cache, caso sim ele iria trazer minha aplicação web para ele e caso não ele iria pegar na origem, para na próxima vez ele pegar em cache. Por fim antes de finalizar o desafio, eu segui boas práticas em questão de desabilitar a minha distribuição no CloudFront e depois apaguei o meu bucket, mesmo esse laboratório sendo num sandbox.
+O objetivo é que o usuário iria acessar esta aplicação e o cloudfront iria verificar se o que o usuário deseja encontrar está cache, caso sim ele iria trazer minha aplicação web para ele e caso não ele iria pegar na origem, para na próxima vez ele pegar em cache.
 </p>
 
 ----
@@ -29,6 +29,12 @@ O objetivo é que o usuário iria acessar esta aplicação e o cloudfront iria v
 ## 4. Parte final site no ar
 
 <img src="./assets/Parte 04.png">
+
+----
+
+<p text-align="justify">
+Por fim antes de finalizar o desafio, eu segui boas práticas em questão de desabilitar a minha distribuição no CloudFront e depois apaguei o meu bucket, mesmo esse laboratório sendo num sandbox.
+</p>
 
 ----
 
